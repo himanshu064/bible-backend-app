@@ -24,7 +24,7 @@ This project is a backend system for a Bible Chat application. It includes user 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/himanshu064/bible-chat-backend.git
+   git clone https://github.com/himanshu064/bible-backend-app.git
    cd bible-chat-backend
    ```
 
