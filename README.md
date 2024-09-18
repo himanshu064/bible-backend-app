@@ -3,6 +3,8 @@
 
 This project is a backend system for a Bible Chat application. It includes user authentication using AWS Cognito, basic CRUD operations with a PostgreSQL database through Prisma for tasks, and email retrieval via the Gmail API. A cron job is also implemented to manage daily tasks in the system.
 
+## Video Link - https://drive.google.com/file/d/18jkOQ6VZVLMFyc-nPxz8hgQbnWnydALJ/view?usp=sharing
+
 ## Features
 
 - **User Authentication**: AWS Cognito integration for user registration and login.
